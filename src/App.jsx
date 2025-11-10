@@ -21,6 +21,8 @@ function App() {
       <p className="read-the-docs">snowfoxlab-react-guide</p>
       <p className="name">hello my name is kiran regmi</p>
       <p className="name">I am happy to work with you guys</p>
+      <p className="name">Thank you very much</p>
+
     </>
   );
 }
